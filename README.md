@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-source codes of noob
+source code
